@@ -44,7 +44,7 @@ HOW TO USE
 1) Paste the files within the directory you want to perform the calculation.
 2) POSCAR file suitable for VASP calculation should be included in the directory.
 3) Modify the file 'input_parameters.py' based on your system
-4) Modify the file 'vasp_input_hte_cif.py' from line 344-362 based on your operating system
+4) Modify the lines 344-362 of the file 'vasp_input_hte_cif.py' based on your operating system
 
 For detailed explanation read Notes.pdf
 
