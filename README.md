@@ -30,18 +30,21 @@ http://www.wannier.org/download/
 *****************************************************************
 DESCRIPTION OF FILES
 
+In source:
 1) vasp_input_hte_cif.py -> source code
 2) input_parameters.py   -> input of source code
 3) autoconstruction.py   -> constructs wannier90 input file
 4) compareband.py        -> compares band structures obtained from DFT and WFs
 5) highsymk.py           -> generates high symmetric kpaths for the KPOINTS file 
 6) plotband.py           -> plots the band structure obtained from VASP
-7) Notes.pdf             -> Detailed explanation
+
+In main:
+1) Notes.pdf             -> Detailed explanation
 
 *****************************************************************
 HOW TO USE
 
-1) Paste the files within the directory you want to perform the calculation.
+1) Paste the files within the source directory you want to perform the calculation.
 2) POSCAR file suitable for VASP calculation should be included in the directory.
 3) Modify the file 'input_parameters.py' based on your system
 4) Modify the lines 344-362 of the file 'vasp_input_hte_cif.py' based on your operating system
