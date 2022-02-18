@@ -3,6 +3,9 @@ Automatic construction of wannier functions for any 3D transition metal based sy
 
 Written by Ilias Samathrakis and Zeying Zhang
 
+The algorithm is summarized briefly in J. Phys. Chem. Lett. 2018, 9, 21, 6224–6231 
+https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.8b02800
+
 *****************************************************************
 INTRODUCTION
 
